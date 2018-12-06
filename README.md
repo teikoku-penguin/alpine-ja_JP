@@ -1,2 +1,2 @@
 # alpine-ja_JP
-Alpine Linux Docker Image. seJapanese Language + JST
+Alpine linux Docker image. Set Language Japanese and set timezone JST
